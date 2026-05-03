@@ -18,8 +18,7 @@ StegoVault is a cross-platform Python GUI tool for hiding encrypted secret messa
 - Overwrite warning when saving encoded images
 - Clipboard copy for extracted messages
 
-## How To Use: 
-https://github.com/khucker3d/cyber-stegovault-png-steganography-tool/blob/main/How%20to%20Use.md
+[How To Use:](https://github.com/khucker3d/cyber-stegovault-png-steganography-tool/blob/main/How%20to%20Use.md)
 
 
 ## Steganography Method
