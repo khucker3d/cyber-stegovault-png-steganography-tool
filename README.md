@@ -36,5 +36,3 @@ The tool uses:
 - Random salt for each encoded message
 
 This means that even if hidden data is extracted, the message still requires the correct password to decrypt.
-
-
