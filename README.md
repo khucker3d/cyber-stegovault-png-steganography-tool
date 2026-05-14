@@ -1,4 +1,4 @@
-# StegoVault PNG Steganography Tool
+# My StegoVault PNG Steganography Tool
 
 StegoVault is a cross-platform Python GUI tool for hiding encrypted secret messages inside PNG images using LSB steganography.
 
