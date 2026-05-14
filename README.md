@@ -2,8 +2,7 @@
 
 StegoVault is a cross-platform Python GUI tool for hiding encrypted secret messages inside PNG images using LSB steganography.
 
-<img width="363" height="332" alt="Screenshot 2026-05-02 at 21 25 00" src="https://github.com/user-attachments/assets/fbdcc419-8979-424b-92c0-8031bf727c4f" />
-<img width="362" height="117" alt="Screenshot 2026-05-02 at 21 25 19" src="https://github.com/user-attachments/assets/b1e1dca1-c041-4408-93b5-87715c2c84da" />
+<img width="758" height="1132" alt="Screenshot 2026-05-14 at 12 38 46" src="https://github.com/user-attachments/assets/d0bb4d04-6f1b-4edf-87be-09acb419298f" />
 
 ## Features
 - Hide secret messages inside PNG images
@@ -18,8 +17,7 @@ StegoVault is a cross-platform Python GUI tool for hiding encrypted secret messa
 - Overwrite warning when saving encoded images
 - Clipboard copy for extracted messages
 
-[How To Use:](https://github.com/khucker3d/cyber-stegovault-png-steganography-tool/blob/main/How%20to%20Use.md)
-
+## [How To Use:](https://github.com/khucker3d/cyber-stegovault-png-steganography-tool/blob/main/How%20to%20Use.md)
 
 ## Steganography Method
 - This tool uses spatial-domain LSB steganography.
