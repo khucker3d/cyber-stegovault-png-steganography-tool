@@ -7,6 +7,7 @@
 2. Run the Tool:
   * Mac: ```python3 stego_vault_gui.py```
   * Windows: ```python stego_vault_gui.py```
+  *Note: I used IDLE to create and run the script*
 
 ### Hide a Message
 1. Select an input PNG image.
