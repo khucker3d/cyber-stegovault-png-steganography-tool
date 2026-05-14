@@ -3,8 +3,9 @@
 <img width="662" height="317" alt="Screenshot 2026-05-02 at 21 25 19" src="https://github.com/user-attachments/assets/a44841e3-c896-49a2-b920-58224c3e6071" />
 
 ### Prereqs:
-1. Install Python dependencies: ```python -m pip install -r requirements.txt```
-2. Run the Tool:
+1. Download the [script:](https://github.com/khucker3d/cyber-stegovault-png-steganography-tool/blob/main/stego_vault_gui.py)
+2. Install Python dependencies: ```python -m pip install -r requirements.txt```
+3. Run the Tool:
   * Mac: ```python3 stego_vault_gui.py```
   * Windows: ```python stego_vault_gui.py```
   *Note: I used IDLE to create and run the script*
