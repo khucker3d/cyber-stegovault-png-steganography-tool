@@ -1,6 +1,5 @@
 ## How to Use
-<img width="663" height="632" alt="Screenshot 2026-05-02 at 21 25 00" src="https://github.com/user-attachments/assets/fbf841c2-e8cc-4d98-873d-3e181282a7e3" />
-<img width="662" height="317" alt="Screenshot 2026-05-02 at 21 25 19" src="https://github.com/user-attachments/assets/a44841e3-c896-49a2-b920-58224c3e6071" />
+<img width="758" height="1132" alt="Screenshot 2026-05-14 at 12 38 46" src="https://github.com/user-attachments/assets/d0bb4d04-6f1b-4edf-87be-09acb419298f" />
 
 ### Prereqs:
 1. Download the [script:](https://github.com/khucker3d/cyber-stegovault-png-steganography-tool/blob/main/stego_vault_gui.py)
